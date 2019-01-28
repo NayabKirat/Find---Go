@@ -1,0 +1,23 @@
+
+.navs{
+    padding: 25px 0;
+    width: 100%;
+    background: $bg;
+    display: flex;
+    flex-direction: row;
+   img{
+       margin-left: 60px;
+   }
+    ul{
+        display: flex;
+    justify-content:flex-end;
+    width: 1200px;
+        li{
+            float: left;
+            padding:10px 20px;
+            list-style: none;
+font-size: 19px;
+
+        }
+    }
+}
